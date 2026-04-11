@@ -18,6 +18,12 @@
 * Level 2 Practice Programs - 4 done
 * Level 3 Practice Programs - 1 done
 
+## Week 7 and 8 - Java Methods
+
+* Level 1 Practice Programs - All done
+* Level 2 Practice Programs - All done
+* Level 3 Practice Programs - All done
+
 ## Language
 
 Java
