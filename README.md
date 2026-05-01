@@ -24,6 +24,12 @@
 * Level 2 Practice Programs - All done
 * Level 3 Practice Programs - All done
 
+## Week 9 and 10 - Java strings
+
+* Level 1 Practice Programs - All done
+* Level 2 Practice Programs - All done
+* Level 3 Practice Programs - All done
+
 ## Language
 
 Java
